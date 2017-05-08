@@ -1,2 +1,4 @@
 # hello-world
-just testing
+Hi Humans,
+
+I am here to make nice code.
